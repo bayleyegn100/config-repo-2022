@@ -1,1 +1,5 @@
-
+test.property=Out words!
+groupvision=Let us stand one for another.
+server.port=2244
+# allow for RefreshScope
+management.endpoints.web.exposure.include=*
